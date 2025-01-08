@@ -1,3 +1,4 @@
+
 // Added serialization
 public class Loan implements java.io.Serializable {
   private double annualInterestRate;
